@@ -4,4 +4,9 @@ suddenly our manager assign a emergancy task file what will we do.
 1st line by devloper 
 2nd line by devloper
 3nd line by developer
+my manager work 
+1st commut
+2nd commit 
+3 ed commit
+4ht commit
 
